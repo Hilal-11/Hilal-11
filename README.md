@@ -1,10 +1,10 @@
 # Hi, I'm Hilal 👋
 
-**Founder & Developer** — Building [Lokalhost.io](https://lokalhost.io)
+**Founder & Developer** — Building [Lokalhost.io](lokalhost-io-i2di.vercel.app)
 
 Full-stack developer specializing in React, Next.js, and TypeScript. Creator of production-ready components, templates, and design systems for modern web development.
 
-[Portfolio](https://hila-11.com) • [Lokalhost.io](https://lokalhost.io)
+[Portfolio](https://hila-11.com) • [Lokalhost.io](https://lokalhost-io-i2di.vercel.app)
 
 ---
 
