@@ -1,4 +1,4 @@
-# Hi, I'm Hilal 👋
+# Hi, I'm Hilal 👋.
 
 **Founder & Developer** — Building [Lokalhost.io](https://lokalhost-io-i2di.vercel.app)
 
