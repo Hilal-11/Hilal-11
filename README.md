@@ -47,23 +47,6 @@ Short links, QR codes, bio pages, and click analytics with geolocation, all behi
 
 **Stack:** Next.js · TypeScript · Supabase
 
-## GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hilal-11&show_icons=true&hide_border=true&theme=transparent&title_color=888888&icon_color=888888&text_color=888888" alt="Hilal's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilal-11&layout=compact&hide_border=true&theme=transparent&title_color=888888&text_color=888888" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hilal-11&hide_border=true&background=00000000&ring=888888&fire=888888&currStreakLabel=888888&sideLabels=888888&currStreakNum=888888&sideNums=888888&dates=888888" alt="GitHub streak" />
-
-</div>
-
----
-
-## Let's work together
-
-I'm open to freelance projects, collaborations, and open source contributions.
-
 - 🌐 Portfolio: [hila-11.com](https://hila-11.com)
 - 🧩 Product: [Lokalhost.io](https://lokalhost-io-i2di.vercel.app)
 - 💬 Found a bug or have an idea? Open an issue on any of my repos.
