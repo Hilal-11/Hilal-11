@@ -35,6 +35,7 @@ A component registry and template marketplace for modern web development.
 A URL shortener that turns long links into short, shareable ones and shows you exactly how they perform.
 
 **Stack:** Next.js · TypeScript · Supabase · Tailwind CSS
+
 **Live:** [snaplnk-gold.vercel.app](https://snaplnk-gold.vercel.app/)
 ---
 
