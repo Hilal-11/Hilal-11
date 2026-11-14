@@ -24,27 +24,19 @@ I build production-ready components, templates, and tools so developers can ship
 - 🌱 Open source first: **80+ public repositories**
 - 🎓 I also teach web development, programming, and data analysis
 - 📍 Based in Kashmir, India
-
 ---
 
 ## What I'm building
 
 ### 🧩 [Lokalhost.io](https://lokalhost-io-i2di.vercel.app) — ship faster with production-ready UI
-
 A component registry and template marketplace for modern web development.
-
 **Stack:** Next.js · TypeScript · Tailwind CSS · Node.js · MongoDB
-
 **Live:** [lokalhost-io-i2di.vercel.app](https://lokalhost-io-i2di.vercel.app)
 
 ### 🔗 [SnapLnk](https://snaplnk-gold.vercel.app/) — short links that tell you more
-
 A URL shortener that turns long links into short, shareable ones and shows you exactly how they perform.
-
 **Stack:** Next.js · TypeScript · Supabase · Tailwind CSS
-
 **Live:** [snaplnk-gold.vercel.app](https://snaplnk-gold.vercel.app/)
-
 ---
 
 ## Connect
@@ -53,9 +45,3 @@ A URL shortener that turns long links into short, shareable ones and shows you e
 - 🧩 Lokalhost.io: [lokalhost-io-i2di.vercel.app](https://lokalhost-io-i2di.vercel.app)
 - 🔗 SnapLnk: [snaplnk-gold.vercel.app](https://snaplnk-gold.vercel.app/)
 - 💬 Found a bug or have an idea? Open an issue on any of my repos.
-
-<div align="center">
-
-⭐ If you find my work useful, consider starring a repo. It helps a lot.
-
-</div>
