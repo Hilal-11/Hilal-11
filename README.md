@@ -37,6 +37,7 @@ A URL shortener that turns long links into short, shareable ones and shows you e
 **Stack:** Next.js · TypeScript · Supabase · Tailwind CSS
 
 **Live:** [snaplnk-gold.vercel.app](https://snaplnk-gold.vercel.app/)
+
 ---
 
 ## Connect
