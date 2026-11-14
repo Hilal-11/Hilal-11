@@ -2,12 +2,13 @@
 
 # Hi, I'm Hilal 👋
 
-### Founder & Full-Stack Developer · Building [Lokalhost.io](https://lokalhost-io-i2di.vercel.app)
+### Founder & Full-Stack Developer · Building [Lokalhost.io](https://lokalhost-io-i2di.vercel.app) and [SnapLnk](https://snaplnk-gold.vercel.app/)
 
-I build production-ready components, templates, and design systems so developers can ship faster.
+I build production-ready components, templates, and tools so developers can ship faster.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hila-11.com)
 [![Lokalhost.io](https://img.shields.io/badge/Lokalhost.io-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://lokalhost-io-i2di.vercel.app)
+[![SnapLnk](https://img.shields.io/badge/SnapLnk-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://snaplnk-gold.vercel.app/)
 [![GitHub](https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hilal-11)
 
 </div>
@@ -18,6 +19,7 @@ I build production-ready components, templates, and design systems so developers
 
 - 🚀 Full-stack developer working mainly with **React, Next.js, and TypeScript**
 - 🧩 Creator of **Lokalhost.io**, a component registry and template marketplace
+- 🔗 Creator of **SnapLnk**, a URL shortener with analytics, QR codes, and bio pages
 - 📱 Building for web and mobile (React Native / Expo)
 - 🌱 Open source first: **80+ public repositories**
 - 🎓 I also teach web development, programming, and data analysis
@@ -27,7 +29,7 @@ I build production-ready components, templates, and design systems so developers
 
 ## What I'm building
 
-### [Lokalhost.io](https://lokalhost-io-i2di.vercel.app) — ship faster with production-ready UI
+### 🧩 [Lokalhost.io](https://lokalhost-io-i2di.vercel.app) — ship faster with production-ready UI
 
 A component registry and template marketplace for modern web development.
 
@@ -41,14 +43,31 @@ A component registry and template marketplace for modern web development.
 
 **Stack:** Next.js · TypeScript · Tailwind CSS · Node.js · MongoDB
 
-### SnapLnk — URL shortener with analytics
+**Live:** [lokalhost-io-i2di.vercel.app](https://lokalhost-io-i2di.vercel.app)
 
-Short links, QR codes, bio pages, and click analytics with geolocation, all behind a clean dashboard.
+### 🔗 [SnapLnk](https://snaplnk-gold.vercel.app/) — short links that tell you more
 
-**Stack:** Next.js · TypeScript · Supabase
+A URL shortener that turns long links into short, shareable ones and shows you exactly how they perform.
+
+| | |
+|---|---|
+| ✂️ **Short links** | Turn any long URL into a clean, shareable link |
+| 📊 **Click analytics** | Track clicks on every link, with location data |
+| 📱 **QR codes** | Generate a QR code for any short link |
+| 👤 **Bio pages** | One page that holds all your important links |
+| 🖥️ **Dashboard** | Manage every link and its stats in one clean, monochrome interface |
+
+**Stack:** Next.js · TypeScript · Supabase · Tailwind CSS
+
+**Live:** [snaplnk-gold.vercel.app](https://snaplnk-gold.vercel.app/)
+
+---
+
+## Connect
 
 - 🌐 Portfolio: [hila-11.com](https://hila-11.com)
-- 🧩 Product: [Lokalhost.io](https://lokalhost-io-i2di.vercel.app)
+- 🧩 Lokalhost.io: [lokalhost-io-i2di.vercel.app](https://lokalhost-io-i2di.vercel.app)
+- 🔗 SnapLnk: [snaplnk-gold.vercel.app](https://snaplnk-gold.vercel.app/)
 - 💬 Found a bug or have an idea? Open an issue on any of my repos.
 
 <div align="center">
