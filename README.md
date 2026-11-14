@@ -31,7 +31,9 @@ A component registry and template marketplace for modern web development.
 **Live:** [lokalhost-io-i2di.vercel.app](https://lokalhost-io-i2di.vercel.app)
 
 ### 🔗 [SnapLnk](https://snaplnk-gold.vercel.app/) — short links that tell you more
+
 A URL shortener that turns long links into short, shareable ones and shows you exactly how they perform.
+
 **Stack:** Next.js · TypeScript · Supabase · Tailwind CSS
 **Live:** [snaplnk-gold.vercel.app](https://snaplnk-gold.vercel.app/)
 ---
