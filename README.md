@@ -33,14 +33,6 @@ I build production-ready components, templates, and tools so developers can ship
 
 A component registry and template marketplace for modern web development.
 
-| | |
-|---|---|
-| 🧱 **Components & blocks** | Copy-paste components, installable through a shadcn-compatible registry |
-| 📄 **Templates & starter kits** | Complete, ready-to-deploy project foundations |
-| 🔐 **Authentication kits** | Pre-built auth flows you can drop into any app |
-| 📱 **Mobile UI** | Components and full screens for React Native |
-| 🎨 **Design systems** | Consistent, clean, monochrome-first design |
-
 **Stack:** Next.js · TypeScript · Tailwind CSS · Node.js · MongoDB
 
 **Live:** [lokalhost-io-i2di.vercel.app](https://lokalhost-io-i2di.vercel.app)
@@ -48,14 +40,6 @@ A component registry and template marketplace for modern web development.
 ### 🔗 [SnapLnk](https://snaplnk-gold.vercel.app/) — short links that tell you more
 
 A URL shortener that turns long links into short, shareable ones and shows you exactly how they perform.
-
-| | |
-|---|---|
-| ✂️ **Short links** | Turn any long URL into a clean, shareable link |
-| 📊 **Click analytics** | Track clicks on every link, with location data |
-| 📱 **QR codes** | Generate a QR code for any short link |
-| 👤 **Bio pages** | One page that holds all your important links |
-| 🖥️ **Dashboard** | Manage every link and its stats in one clean, monochrome interface |
 
 **Stack:** Next.js · TypeScript · Supabase · Tailwind CSS
 
