@@ -12,9 +12,7 @@ I build production-ready components, templates, and tools so developers can ship
 [![GitHub](https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hilal-11)
 
 </div>
-
 ---
-
 ## About me
 
 - 🚀 Full-stack developer working mainly with **React, Next.js, and TypeScript**
@@ -25,7 +23,6 @@ I build production-ready components, templates, and tools so developers can ship
 - 🎓 I also teach web development, programming, and data analysis
 - 📍 Based in Kashmir, India
 ---
-
 ## What I'm building
 
 ### 🧩 [Lokalhost.io](https://lokalhost-io-i2di.vercel.app) — ship faster with production-ready UI
@@ -40,7 +37,6 @@ A URL shortener that turns long links into short, shareable ones and shows you e
 ---
 
 ## Connect
-
 - 🌐 Portfolio: [hila-11.com](https://hila-11.com)
 - 🧩 Lokalhost.io: [lokalhost-io-i2di.vercel.app](https://lokalhost-io-i2di.vercel.app)
 - 🔗 SnapLnk: [snaplnk-gold.vercel.app](https://snaplnk-gold.vercel.app/)
