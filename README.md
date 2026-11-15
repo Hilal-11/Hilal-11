@@ -2,7 +2,7 @@
 
 # Hi, I'm Hilal 👋
 
-### Founder & Full-Stack Developer · Building [Lokalhost.io](https://lokalhost-io-eta.vercel.app/) and [SnapLnk](https://snaplnk-gold.vercel.app/)
+### Founder & Full-Stack Developer · Building [Lokalhostui.com](https://localhostui.com) and [SnapLnk.pro](https://snaplnk.pro)
 
 I build production-ready components, templates, and tools so developers can ship faster.
 
@@ -28,17 +28,17 @@ I build production-ready components, templates, and tools so developers can ship
 ### 🧩 [Lokalhost.io](https://lokalhost-io-i2di.vercel.app) — ship faster with production-ready UI
 A component registry and template marketplace for modern web development.
 **Stack:** Next.js · TypeScript · Tailwind CSS · Node.js · MongoDB
-**Live:** [lokalhost-io-i2di.vercel.app](https://lokalhost-io-i2di.vercel.app)
+**Live:** [localhostui.com](https://localhostui.com)
 
 ### 🔗 [SnapLnk](https://snaplnk-gold.vercel.app/) — short links that tell you more
 A URL shortener that turns long links into short, shareable ones and shows you exactly how they perform.
 **Stack:** Next.js · TypeScript · Supabase · Tailwind CSS
-**Live:** [snaplnk-gold.vercel.app](https://snaplnk-gold.vercel.app/)
+**Live:** [snaplnk.pro](https://snaplnk.pro)
 
 ---
 
 ## Connect
 - 🌐 Portfolio: [hila-11.com](https://hila-11.com)
-- 🧩 Lokalhost.io: [lokalhost-io-i2di.vercel.app](https://lokalhost-io-i2di.vercel.app)
-- 🔗 SnapLnk: [snaplnk-gold.vercel.app](https://snaplnk-gold.vercel.app/)
+- 🧩 Lokalhost.io: [lokalhost-io-i2di.vercel.app](https://localhostui.com)
+- 🔗 SnapLnk: [snaplnk-gold.vercel.app](https://snaplnk.pro)
 - 💬 Found a bug or have an idea? Open an issue on any of my repos.
