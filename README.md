@@ -2,7 +2,7 @@
 
 # Hi, I'm Hilal 👋
 
-### Founder & Full-Stack Developer · Building [Lokalhost.io](https://lokalhost-io-i2di.vercel.app) and [SnapLnk](https://snaplnk-gold.vercel.app/)
+### Founder & Full-Stack Developer · Building [Lokalhost.io](https://lokalhost-io-eta.vercel.app/) and [SnapLnk](https://snaplnk-gold.vercel.app/)
 
 I build production-ready components, templates, and tools so developers can ship faster.
 
