@@ -38,9 +38,3 @@ A URL shortener that turns long links into short, shareable ones and shows you e
 **Live:** [snaplnk.pro](https://snaplnk.pro)
 
 ---
-
-## Connect
-- 🌐 Portfolio: [hila-11.com](https://hila-11.com)
-- 🧩 Lokalhost.io: [lokalhost-io-i2di.vercel.app](https://localhostui.com)
-- 🔗 SnapLnk: [snaplnk-gold.vercel.app](https://snaplnk.pro)
-- 💬 Found a bug or have an idea? Open an issue on any of my repos.
