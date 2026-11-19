@@ -7,7 +7,7 @@
 I build production-ready components, templates, and tools so developers can ship faster.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hila-11.com)
-[![Lokalhost.io](https://img.shields.io/badge/Lokalhost.io-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://lokalhost-io-i2di.vercel.app)
+[![Lokalhost.io](https://localhostui.com/logosvglight.svg)](https://localhostui.com)
 [![SnapLnk](https://img.shields.io/badge/SnapLnk-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://snaplnk-gold.vercel.app/)
 [![GitHub](https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hilal-11)
 
