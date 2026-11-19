@@ -10,6 +10,8 @@ I build production-ready components, templates, and tools so developers can ship
 [![Lokalhost.io](https://img.shields.io/badge/Localhostui.com-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://localhostui.com)
 [![SnapLnk](https://img.shields.io/badge/Snaplnk.pro-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://snaplnk.pro)
 [![GitHub](https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hilal-11)
+[![GitHub](https://img.shields.io/badge/TensorLM.io-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/Hilal-11)
+
 
 </div>
 ---
