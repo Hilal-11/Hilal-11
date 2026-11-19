@@ -27,14 +27,12 @@ I build production-ready components, templates, and tools so developers can ship
 ---
 ## What I'm building
 
-### 🧩 [Lokalhost.io](https://lokalhost-io-i2di.vercel.app) — ship faster with production-ready UI
+### 🧩 [Lokalhost.io](https://localhostui.com) — ship faster with production-ready UI
 A component registry and template marketplace for modern web development.
 **Stack:** Next.js · TypeScript · Tailwind CSS · Node.js · MongoDB
-**Live:** [localhostui.com](https://localhostui.com)
 
-### 🔗 [SnapLnk](https://snaplnk-gold.vercel.app/) — short links that tell you more
+### 🔗 [SnapLnk](https://snaplnk.pro) — short links that tell you more
 A URL shortener that turns long links into short, shareable ones and shows you exactly how they perform.
 **Stack:** Next.js · TypeScript · Supabase · Tailwind CSS
-**Live:** [snaplnk.pro](https://snaplnk.pro)
 
 ---
